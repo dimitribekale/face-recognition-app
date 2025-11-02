@@ -117,6 +117,8 @@ Pendo follows a modular architecture with clear separation of concerns:
 - Webcam or camera device
 - macOS, Linux, or Windows
 
+> ⚠️ **IMPORTANT**: This application requires the EdgeFace pre-trained model to function. The model file is not included in this repository due to its large size (~100MB). You must download it separately following the instructions in Step 4 below.
+
 ### Step 1: Clone the Repository
 
 ```bash
