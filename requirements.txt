@@ -1,0 +1,7 @@
+onnx
+onnxruntime
+numpy
+opencv-python
+torch
+torchvision
+timm
